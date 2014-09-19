@@ -1,0 +1,4 @@
+images
+======
+
+Image resources.
